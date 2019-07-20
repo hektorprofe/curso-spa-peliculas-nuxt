@@ -1,0 +1,24 @@
+{
+  "name": "cli_peliculas",
+  "version": "1.0.0",
+  "description": "My cat&#39;s meow Nuxt.js project",
+  "author": "Hektor",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --hostname 127.0.0.1 --port 3333",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^2.6.0",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.0",
+    "nuxt-buefy": "^0.3.2",
+    "vue-toasted": "^1.1.26"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
