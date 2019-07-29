@@ -21,7 +21,10 @@ Ya deberías ver el proyecto funcionando en http://127.0.0.1:3333
 
 ## Capturas
 
+Pantalla principal con el top de películas y los filtros:
+
 <img src="/docs/peliculas.png" />
 
+Panel del usuario identificado con sus películas favoritas:
 
 <img src="/docs/favoritas.png" />
